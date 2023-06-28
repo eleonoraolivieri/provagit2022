@@ -1,0 +1,35 @@
+token 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
+
+GLOSSARIO metodi
+
+Lista di oggetti con peso più grande
+. 2021-07-20 YELP (risultato: il vertice collegato)
+. 2022-05-24 iTUNES (risultato: l'arco)
+
+Oggetto con peso più grande
+. 2021-05-26 YELP delta tra arco entrante e arco uscente maggiore di un vertice
+. 2021-09-10 YELP vertice adiacente con peso più grande
+
+Lista di vertici adiacenti a quello selezionato
+. 2021-06-01 GENES in ordine decrescente di peso, con relativo peso
+. 2022-06-29 ITUNES lista di vertici adiacenti in ordine di delta peso
+
+
+Lista di archi con un peso minore di tot
+. 2021-06-30 GENES
+
+Stampare il valore minimo e il valore massimo degli archi
+. 2021-06-30 GENES
+
+Lista di oggetti con più archi collegati
+. 2022-02-23 YELP tutti gli archi collegati con peso maggiore
+. 2022-05-31 NYC tutti gli archi collegati al v in ordine di peso
+
+Lista di archi con peso maggiore di AVG
+. 2022-07-14 NYC
+
+Componente connessa
+. 2022-09-14 componente connessa di un oggetto + durata tot di tutti i vertici connessi
+. 2023-05-23 BASEBALL tutte le componenti connesse di un grafo
+. 2023-05-30 GOSALES dimensione componente connessa di un oggeto + peso di tutti gli archi
+
