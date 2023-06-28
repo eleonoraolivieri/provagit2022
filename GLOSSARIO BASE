@@ -9,6 +9,8 @@ Lista di oggetti con peso più grande
 Oggetto con peso più grande
 . 2021-05-26 YELP delta tra arco entrante e arco uscente maggiore di un vertice
 . 2021-09-10 YELP vertice adiacente con peso più grande
+. 2021-02-24 vertice migliore con deltamax (grafo orientato)
+. 2020-06-03 vertice migliore ocn deltamax + avversari battuti (lista)
 
 Lista di vertici adiacenti a quello selezionato
 . 2021-06-01 GENES in ordine decrescente di peso, con relativo peso
@@ -24,6 +26,7 @@ Stampare il valore minimo e il valore massimo degli archi
 Lista di oggetti con più archi collegati
 . 2022-02-23 YELP tutti gli archi collegati con peso maggiore
 . 2022-05-31 NYC tutti gli archi collegati al v in ordine di peso
+. 2021-06-01 tutti gli archi collegati al v in ordine di peso
 
 Lista di archi con peso maggiore di AVG
 . 2022-07-14 NYC
@@ -32,4 +35,10 @@ Componente connessa
 . 2022-09-14 componente connessa di un oggetto + durata tot di tutti i vertici connessi
 . 2023-05-23 BASEBALL tutte le componenti connesse di un grafo
 . 2023-05-30 GOSALES dimensione componente connessa di un oggeto + peso di tutti gli archi
+
+Lista di simili (anche con più passaggi)
+. 2020-06-10 tutti i vertici collegati a quello selezionato anche attraverso a più passaggi CONNECTIVITY INSPECTOR
+
+Lista di archi
+. 2020-01-20 vertici connessi in ordine decrescente di peso
 
