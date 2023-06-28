@@ -1,0 +1,69 @@
+GLOSSARIO
+
+RICORSIVA CONNECTIVITY INSPECTOR: 22-05-24 SIMULAZIONE ITUNES 
+Permettere all’utente di selezionare la canzone preferita c
+(tra quelle presenti nel grafo), e di inserire una capacità di memoria massima m,
+espressa in numero bytes. Alla pressione del bottone “Crea Lista”, utilizzare un algoritmo
+ricorsivo per trovare l’insieme più numeroso di canzoni che abbia le seguenti caratteristiche:
+
+• contenga la canzone c;
+• includa solamente canzoni che appartengano alla stessa componente connessa di c;
+• abbia una dimensione totale, definita come la somma dei Bytes di ogni canzone contenuta, non superiore
+alla capacità massima di memoria m;
+
+RICORSIVA CONNECTIVITY INSPECTOR: 22-09-14 iTUNES
+Permettere all’utente di inserire una durata complessiva dTOT, espressa in minuti. Alla pressione del bottone “Set di Album”, utilizzare un algoritmo ricorsivo per estrarre un set di album dal grafo che abbia le seguenti caratteristiche:
+• includa a1;
+• includa solo album appartenenti alla stessa componente connessa di a1;
+• includa il maggior numero possibile di album;
+• abbia una durata complessiva, definita come la somma della durata degli album in esso contenuti, non
+superiore dTOT.
+
+
+RICORSIVA CAMMINO MINIMO: 22-06-29 iTunes
+Permettere all’utente di inserire una soglia numerica x, e di selezionare,
+dall’apposita tendina, un ulteriore album a2 tra quelli presenti nel grafo.
+Alla pressione del bottone “Calcola Percorso”, trovare e stampare (se esiste)
+un cammino semplice sul grafo calcolato nel punto 1 che abbia le seguenti caratteristiche:
+• parta da a1 (selezionato al punto 1d) e termini in a2;
+• attraversi solo archi con peso maggiore o uguale a x;
+• tocchi il maggior numero di vertici che hanno un “bilancio” maggiore di quello del vertice di partenza a1
+(per il calcolo del “bilancio” di un vertice si veda il punto 1d).
+
+RICORSIVA 23-05-23
+Dato il grafo costruito al punto precedente, si vuole definire un
+dream team costituito dal più grande numero di giocatori che non ha
+giocato nella stessa squadra per l’anno selezionato.
+La direzione non bada a spese, ed ha deciso di investire tutto il denaro
+necessario per assicurarsi i giocatori migliori.
+• Due giocatori possono far parte del dream team se non hanno fatto parte della stessa squadra per l’anno in corso (anche per parte di esso).
+• La squadra selezionata dovrà selezionare, fra le varie soluzioni possibili, quella con salario cumulativo più alto.
+
+
+
+
+
+
+SIMULAZIONI
+21-07-20 YELP
+Una agenzia di marketing vuole condurre delle interviste ai clienti dei ristoranti e
+bar presenti sulla piattaforma Yelp per tracciare un profilo degli utenti e progettare
+delle campagne pubblicitarie mirate. Si vuole creare un programma che permetta all’agenzia
+di simulare tale analisi, in modo tale da poter pianificare in anticipo il numero di
+dipendenti (“intervistatori”) da coinvolgere e il tempo necessario per portare a termine il lavoro.
+In particolare, il programma dovrà svolgere le seguenti funzioni:
+
+SIMULAZIONE CON UNA SOLA SCHEDA
+2022-07-14 HOTSPOT
+Eventi illegali di New York
+
+SIMULAZIONE
+2023-05-30
+L’azienda Great Outdoors vuole effe?uare uno studio per oCmizzare il rifornimento
+di prodoC al rivenditore r (selezionato al punto 1). Lo studio riguarda un solo
+prodotto p tra quelli venduti da r, che va selezionato tramite apposita tendina (colonna Product).
+L’analisi ha l’obieCvo di sfru?are i da@ delle vendite del prodo?o effe?uato dal 
+rivenditore nel corso dell’anno a, per pianificare gli approvvigionamen@ per l’anno successivo.
+Lo studio si sviluppa nel seguente modo:
+
+
